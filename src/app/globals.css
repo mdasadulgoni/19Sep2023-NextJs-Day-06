@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #e8e8e8;
+}
+header{
+  width: 90%;
+  height: 80px;
+  margin: auto;
+  background-color: #ffff;
+  text-align: center;
+  line-height: 80px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+}
+main{
+  width: 90%;
+  height: 3000px;
+  margin: auto;
+  background-color: #ffff;
+  text-align: center;
+  line-height: 80px;
+  margin-bottom: 20px;
+  border: 1px solid rgb(7, 82, 0);
+}
+footer{
+  width: 90%;
+  height: 300px;
+  margin: auto;
+  background-color: #ffff;
+  text-align: center;
+  line-height: 300px;
+  border: 1px solid rgb(0, 0, 0);
+}
